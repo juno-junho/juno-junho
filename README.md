@@ -16,7 +16,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 [<img align="left" alt="junojuno | Instagram" width="22px" src="./image/instagram.png" />][instagram]
-[<img align="left" alt="junojuno | email" width="22px" src="./image/email.png" />][Email]
+[<img align="left" alt="junojuno | email" width="25px" src="./image/email.png" />][Email]
 <br />
 
 ### Languages and Tools:
@@ -68,7 +68,7 @@
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://www.instagram.com/j.unojuno/
-[Email]: ssmm0205@naver.com
+[Email]: mailto:ssmm0205@naver.com
 <!-- [linkedin]: https://linkedin.com/in/codeSTACKr -->
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
