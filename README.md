@@ -38,6 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2021년 회고. 그리고 다가오는 2022년.](https://juno-juno.tistory.com/43)
+- [Lecture Introduction과 Proof에 대해서](https://juno-juno.tistory.com/42)
+- [자바 스터디 - 11주차 &lpar;Enum&rpar;](https://juno-juno.tistory.com/40)
+- [&lpar;용어정리&rpar; 쿼리, DBMS, Connection Pool, Connection Leak, 스키마](https://juno-juno.tistory.com/39)
+- [Entity&lpar;개체&rpar;, 속성, 도메인 이란?](https://juno-juno.tistory.com/38)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
