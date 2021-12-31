@@ -1,4 +1,4 @@
-### Hi there, I'm Junho 👋 
+### Hi there, I'm Junho Hwang 👋 
 
 
 ## I'm a learning to be a developer!
@@ -22,9 +22,9 @@
 
 ### Languages and Tools:
 <img align="left" alt="IntelliJ" width="26px" src="./image/intellij.png" />
-<img align="left" alt="HTML5" width="26px" src="./image/html.png" />
-<img align="left" alt="CSS3" width="26px" src="./image/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="./image/javascript.pngs" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="./image/javascript.png" />
 <img align="left" alt="Java" width="26px" src="./image/java.png" />
 <img align="left" alt="Spring" width="26px" src="./image/spring.png" />
 <img align="left" alt="Hibernate" width="26px" src="./image/hibernate.png" />
