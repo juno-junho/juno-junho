@@ -1,4 +1,4 @@
-### Hi there, I'm Junho Hwang 👋 
+## Hi there, I'm Junho Hwang 👋 
 
 
 ## I'm a learning to be a developer!
@@ -38,7 +38,6 @@
 ---
 
 ### 📕 Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -46,19 +45,19 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!-- <details> -->
+  <!-- <summary>:zap: GitHub Stats</summary> -->
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-st
-</details>
+  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-st -->
+<!-- </details> --> 
 
 [website]: https://juno-juno.tistory.com/
 <!-- [course]: http://vsCodeHero.com
