@@ -6,7 +6,8 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning about Spring framework with java 🤣
 <!-- - 👯 I’m looking to make my  -->
-- 🥅 2022 Goals: Launch my own project.
+- 🥅 2022 Goals: Launch my own project & Educate myself consistently
+
 - ⚡ Fun fact: I love play guitar and weight training
 
 ### Connect with me:
@@ -20,14 +21,14 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="IntelliJ" width="26px" src="" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Hibernate" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="IntelliJ" width="26px" src="./image/intellij.png" />
+<img align="left" alt="HTML5" width="26px" src="./image/html.png" />
+<img align="left" alt="CSS3" width="26px" src="./image/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="./image/javascript.pngs" />
+<img align="left" alt="Java" width="26px" src="./image/java.png" />
+<img align="left" alt="Spring" width="26px" src="./image/spring.png" />
+<img align="left" alt="Hibernate" width="26px" src="./image/hibernate.png" />
+<img align="left" alt="MySQL" width="26px" src="./image/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
