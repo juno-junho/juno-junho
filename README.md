@@ -8,8 +8,7 @@
 <!-- - 👯 I’m looking to make my  -->
 - 🥅 2022 Goals: Launch my own project & Educate myself consistently
 
-- ⚡ Fun fact: I love play guitar and weight training
-
+- ⚡ Fun fact: I love to play guitar and lifting weights
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
