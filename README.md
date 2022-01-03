@@ -1,7 +1,7 @@
 ## Hi there, I'm Junho Hwang 👋 
 
 
-## I'm a learning to be a developer!
+## I'm learning to be a developer!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning about Spring framework with java 🤣
@@ -29,8 +29,7 @@
 <img align="left" alt="Hibernate" width="26px" src="./image/hibernate.png" />
 <img align="left" alt="MySQL" width="26px" src="./image/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />       
-
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
 <br/>
 
