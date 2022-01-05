@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [1. Static Checking](https://juno-juno.tistory.com/46)
 - [기본적인 Git 사용법](https://juno-juno.tistory.com/45)
 - [마크다운 연습](https://juno-juno.tistory.com/44)
 - [2021년 회고. 그리고 다가오는 2022년.](https://juno-juno.tistory.com/43)
 - [Lecture Introduction과 Proof에 대해서](https://juno-juno.tistory.com/42)
-- [자바 스터디 - 11주차 &lpar;Enum&rpar;](https://juno-juno.tistory.com/40)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
