@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Optional 클래스](https://juno-juno.tistory.com/51)
 - [Java Stream](https://juno-juno.tistory.com/50)
 - [Github SSH 원격 접속을 통한 토큰 없이 push하기](https://juno-juno.tistory.com/48)
 - [2. Code Review](https://juno-juno.tistory.com/47)
 - [1. Static Checking](https://juno-juno.tistory.com/46)
-- [기본적인 Git 사용법](https://juno-juno.tistory.com/45)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
