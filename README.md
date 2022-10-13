@@ -34,21 +34,12 @@
 <br/>
 
 ### 📕 Latest Blog Posts
-<<<<<<< HEAD
 <!-- BLOG-POST-LIST:START -->
 - [마크다운 연습](https://juno-juno.tistory.com/44)
 - [2021년 회고. 그리고 다가오는 2022년.](https://juno-juno.tistory.com/43)
 - [Lecture Introduction과 Proof에 대해서](https://juno-juno.tistory.com/42)
 - [자바 스터디 - 11주차 &lpar;Enum&rpar;](https://juno-juno.tistory.com/40)
 - [&lpar;용어정리&rpar; 쿼리, DBMS, Connection Pool, Connection Leak, 스키마](https://juno-juno.tistory.com/39)
-=======
-<!-- BLOG-POST-LIST:START -->
-- [3. Testing](https://juno-juno.tistory.com/52)
-- [Java Optional 클래스](https://juno-juno.tistory.com/51)
-- [Java Stream](https://juno-juno.tistory.com/50)
-- [Github SSH 원격 접속을 통한 토큰 없이 push하기](https://juno-juno.tistory.com/48)
-- [2. Code Review](https://juno-juno.tistory.com/47)
->>>>>>> de8c6561e887f9ad05a4e6bed4bcd3624288bb6f
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
