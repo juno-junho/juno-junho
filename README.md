@@ -1,7 +1,7 @@
 ## Hi there, I'm Junho Hwang 👋 
 
 
-## I'm learning to be a developer!
+## I'm learning to be a Backend developer!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning about Spring framework with java 🤣
@@ -45,20 +45,6 @@
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
 
 ---
-
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
-
-<!-- <details> -->
-  <!-- <summary>:zap: GitHub Stats</summary> -->
-
-  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-st -->
-<!-- </details> --> 
 
 [website]: https://juno-juno.tistory.com/
 <!-- [course]: http://vsCodeHero.com
