@@ -1,7 +1,7 @@
 ## Hi there, I'm Junho Hwang 👋 
 
 
-## I'm learning to be a Backend developer!
+## I'm learning to be a backend developer!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning about Spring framework with java 🤣
