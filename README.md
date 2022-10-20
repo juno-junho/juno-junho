@@ -47,4 +47,4 @@
 ---
 [instagram]: https://www.instagram.com/j.unojuno/
 [Email]: mailto:ssmm0205@naver.com
-
+[website]: https://juno-juno.tistory.com/
