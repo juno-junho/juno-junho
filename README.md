@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Junit5에서 assertIterableEquals과 assertLinesMatch의 차이점](https://juno-juno.tistory.com/79)
 - [그래프&lpar;Graph&rpar;](https://juno-juno.tistory.com/78)
 - [github remote repository 이름 변경 후 &amp;  .gitignore file 설정](https://juno-juno.tistory.com/77)
 - [검색 &lpar;선형검색, 이진검색&rpar;](https://juno-juno.tistory.com/76)
 - [정렬&lpar;Sorting&rpar; - 버블, 선택, 삽입](https://juno-juno.tistory.com/75)
-- [github repository name convention](https://juno-juno.tistory.com/74)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
