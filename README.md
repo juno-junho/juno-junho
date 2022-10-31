@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean Code 책을 읽고](https://juno-juno.tistory.com/82)
 - [질문을 잘 하는 개발자가 되자](https://juno-juno.tistory.com/81)
 - [Git commit message convention](https://juno-juno.tistory.com/80)
 - [Junit5에서 assertIterableEquals과 assertLinesMatch의 차이점](https://juno-juno.tistory.com/79)
 - [그래프&lpar;Graph&rpar;](https://juno-juno.tistory.com/78)
-- [github remote repository 이름 변경 후 &amp;  .gitignore file 설정](https://juno-juno.tistory.com/77)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
