@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[우아한테크코스 백엔드 5기] - 프리코스 1주차 회고](https://juno-juno.tistory.com/84)
 - [Clean Code - 냄새와 휴리스틱 &lpar;일반&rpar;](https://juno-juno.tistory.com/83)
 - [Clean Code 책을 읽고](https://juno-juno.tistory.com/82)
 - [질문을 잘 하는 개발자가 되자](https://juno-juno.tistory.com/81)
 - [Git commit message convention](https://juno-juno.tistory.com/80)
-- [Junit5에서 assertIterableEquals과 assertLinesMatch의 차이점](https://juno-juno.tistory.com/79)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
