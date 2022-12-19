@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [@SafeVarargs Annotation &lpar;추가 학습 필요&rpar;](https://juno-juno.tistory.com/88)
+- [Trouble Shooting: java list &lpar; Arrays.asList&lpar;&rpar;, List.of&lpar;&rpar; &rpar;사용시 UnsupportedOperationException 해결법](https://juno-juno.tistory.com/87)
 - [Junit5](https://juno-juno.tistory.com/86)
 - [Git upstream, origin과 Git 객체](https://juno-juno.tistory.com/85)
 - [Clean Code - 냄새와 휴리스틱 &lpar;일반&rpar;](https://juno-juno.tistory.com/83)
-- [Clean Code 책을 읽고](https://juno-juno.tistory.com/82)
-- [질문을 잘 하는 개발자가 되자](https://juno-juno.tistory.com/81)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
