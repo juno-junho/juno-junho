@@ -1,7 +1,7 @@
 ## Hi there, I'm Junho Hwang 👋 
 
 
-## I'm learning to be a Backend developer!
+## I'm learning to be a backend developer!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning about Spring framework with java 🤣
@@ -35,20 +35,16 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [@SafeVarargs Annotation &lpar;추가 학습 필요&rpar;](https://juno-juno.tistory.com/88)
+- [Trouble Shooting: java list &lpar; Arrays.asList&lpar;&rpar;, List.of&lpar;&rpar; &rpar;사용시 UnsupportedOperationException 해결법](https://juno-juno.tistory.com/87)
+- [Junit5](https://juno-juno.tistory.com/86)
+- [Git upstream, origin과 Git 객체](https://juno-juno.tistory.com/85)
+- [Clean Code - 냄새와 휴리스틱 &lpar;일반&rpar;](https://juno-juno.tistory.com/83)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
 
 ---
-
-[website]: https://juno-juno.tistory.com/
-<!-- [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://www.instagram.com/j.unojuno/
 [Email]: mailto:ssmm0205@naver.com
-<!-- [linkedin]: https://linkedin.com/in/codeSTACKr -->
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+[website]: https://juno-juno.tistory.com/
