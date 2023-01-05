@@ -6,7 +6,7 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning about Spring framework with java 🤣
 <!-- - 👯 I’m looking to make my  -->
-- 🥅 2022 Goals: Launch my own project & Educate myself consistently
+- 🥅 2023 Goals: Get a Job! (Launch my own project & Educate myself consistently)
 
 - ⚡ Fun fact: I love to play guitar and lifting weights
 ### Connect with me:
