@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [git stash에 대해서](https://juno-juno.tistory.com/94)
 - [Database session이란? 그리고 MySQL에서의 thread](https://juno-juno.tistory.com/93)
 - [Java Exception: Checked vs Unchecked, @SneakyThrows](https://juno-juno.tistory.com/92)
 - [Spring MVC와 Spring Webflux의 비교](https://juno-juno.tistory.com/91)
 - [동기화, 동기&lpar;synchronous&rpar;, 비동기&lpar;asynchronous&rpar;](https://juno-juno.tistory.com/90)
-- [원티드 프리온보딩 백엔드 챌린지 - 데이터베이스 1일차](https://juno-juno.tistory.com/89)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
