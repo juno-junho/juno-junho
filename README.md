@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DDL, DML, DCL](https://juno-juno.tistory.com/96)
 - [try-with-resources 적용 후기](https://juno-juno.tistory.com/95)
 - [git stash에 대해서](https://juno-juno.tistory.com/94)
 - [Database session이란? 그리고 MySQL에서의 thread](https://juno-juno.tistory.com/93)
 - [Java Exception: Checked vs Unchecked, @SneakyThrows](https://juno-juno.tistory.com/92)
-- [Spring MVC와 Spring Webflux의 비교](https://juno-juno.tistory.com/91)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
