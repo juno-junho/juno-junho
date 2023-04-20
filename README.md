@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [점근적 분석&lpar;Asymtotic Analysis&rpar;과 분할 상환 분석&lpar;Amortized Analysis&rpar;](https://juno-juno.tistory.com/97)
 - [DDL, DML, DCL](https://juno-juno.tistory.com/96)
 - [try-with-resources 적용 후기](https://juno-juno.tistory.com/95)
 - [git stash에 대해서](https://juno-juno.tistory.com/94)
 - [Database session이란? 그리고 MySQL에서의 thread](https://juno-juno.tistory.com/93)
-- [Java Exception: Checked vs Unchecked, @SneakyThrows](https://juno-juno.tistory.com/92)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
