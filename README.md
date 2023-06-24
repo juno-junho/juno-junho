@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [헥사고날 아키텍처](https://juno-juno.tistory.com/100)
 - [Scanner와 BufferedReader / BufferedWriter의 차이점과 사용법](https://juno-juno.tistory.com/99)
 - [스트랭글러 패턴](https://juno-juno.tistory.com/98)
 - [점근적 분석&lpar;Asymtotic Analysis&rpar;과 분할 상환 분석&lpar;Amortized Analysis&rpar;](https://juno-juno.tistory.com/97)
 - [DDL, DML, DCL](https://juno-juno.tistory.com/96)
-- [try-with-resources 적용 후기](https://juno-juno.tistory.com/95)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
