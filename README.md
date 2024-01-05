@@ -44,6 +44,6 @@
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
 
 ---
-[instagram]: https://www.instagram.com/j.unojuno/ <!-- no more available-->
 [Email]: mailto:ssmm0205@naver.com
 [website]: https://juno-juno.tistory.com/
+<!-- [instagram]: https://www.instagram.com/j.unojuno/ <!-- no more available-->
