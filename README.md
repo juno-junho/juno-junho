@@ -6,7 +6,7 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning about Spring framework with java 🤣
 <!-- - 👯 I’m looking to make my  -->
-- 🥅 2023 Goals: Get a Job! (Launch my own project & Educate myself consistently)
+- 🥅 2024 Goals: Get a Job as a backend developer
 
 - ⚡ Fun fact: I love to play guitar and lifting weights
 ### Connect with me:
@@ -15,7 +15,6 @@
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-[<img align="left" alt="junojuno | Instagram" width="22px" src="./image/instagram.png" />][instagram]
 [<img align="left" alt="junojuno | email" width="27px" src="./image/email.png" />][Email]
 <br />
 
@@ -45,6 +44,6 @@
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
 
 ---
-[instagram]: https://www.instagram.com/j.unojuno/
+[instagram]: https://www.instagram.com/j.unojuno/ <!-- no more available-->
 [Email]: mailto:ssmm0205@naver.com
 [website]: https://juno-juno.tistory.com/
