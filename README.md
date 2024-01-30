@@ -34,11 +34,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Optional 제대로 사용하고 있는걸까?](https://juno-juno.tistory.com/104)
+- [Function.identity&lpar;&rpar; vs i -&gt; i, 람다식에서 무엇을 사용해야 할까?](https://juno-juno.tistory.com/103)
 - [제 1회 게으른 개발자 컨퍼런스에 다녀와서](https://juno-juno.tistory.com/102)
 - [헥사고날 아키텍처](https://juno-juno.tistory.com/100)
 - [Scanner와 BufferedReader / BufferedWriter의 차이점과 사용법](https://juno-juno.tistory.com/99)
-- [스트랭글러 패턴](https://juno-juno.tistory.com/98)
-- [점근적 분석&lpar;Asymtotic Analysis&rpar;과 분할 상환 분석&lpar;Amortized Analysis&rpar;](https://juno-juno.tistory.com/97)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
