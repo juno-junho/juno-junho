@@ -34,11 +34,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [디자인 패턴 적용기 - 팩토리 메서드 패턴, 전략 패턴 ✨](https://juno-juno.tistory.com/108)
 - [SQL 성능 튜닝 - &lpar;2&rpar; 실행계획을 분석해 성능 튜닝을 해보자!](https://juno-juno.tistory.com/107)
 - [SQL 성능 튜닝 - &lpar;1&rpar; 왜 SQL 튜닝을 해야하지? 어떻게 하지?](https://juno-juno.tistory.com/106)
 - [Repository 테스트시 auto_increment의 id 컬럼 의존성을 끊을수는 없을까?](https://juno-juno.tistory.com/105)
 - [Optional 제대로 사용하고 있는걸까?](https://juno-juno.tistory.com/104)
-- [Function.identity&lpar;&rpar; vs i -&gt; i, 람다식에서 무엇을 사용해야 할까?](https://juno-juno.tistory.com/103)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
