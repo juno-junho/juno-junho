@@ -4,11 +4,11 @@
 ## I'm learning to be a backend developer!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning about Spring framework with java 🤣
+- 🌱 Trying to learn constantly. Interested in databases these days.
 <!-- - 👯 I’m looking to make my  -->
 - 🥅 2024 Goals: Get a Job as a backend developer
 
-- ⚡ Fun fact: I love to play guitar and lifting weights
+- ⚡ Fun fact: I love to play guitar ~~and lifting weights~~ (Been slacking on workouts lately. I also enjoy running.)
 ### Connect with me:
 
 [<img align="left" alt="junojuno" width="22px" src="./image/tistory.png" />][website]
