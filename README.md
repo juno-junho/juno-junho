@@ -16,7 +16,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 [<img align="left" alt="junojuno | email" width="27px" src="./image/email.png" />][Email]
-[<img align="left" alt="junojuno" width="22px" src="./image/notion icon.webp" />][notion]
+[<img align="left" alt="junojuno" width="22px" src="./image/notion_icon.png" />][notion]
 <br />
 
 ### Languages and Tools:
