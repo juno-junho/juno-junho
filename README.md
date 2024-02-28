@@ -16,6 +16,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 [<img align="left" alt="junojuno | email" width="27px" src="./image/email.png" />][Email]
+[<img align="left" alt="junojuno" width="22px" src="./image/notion icon.webp" />][notion]
 <br />
 
 ### Languages and Tools:
@@ -46,4 +47,5 @@
 ---
 [Email]: mailto:ssmm0205@naver.com
 [website]: https://juno-juno.tistory.com/
+[notion]: https://kaput-trombone-343.notion.site/Junho-s-Brain-58a680a1bf90439096fed28abf610396
 <!-- [instagram]: https://www.instagram.com/j.unojuno/ <!-- no more available-->
