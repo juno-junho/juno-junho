@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [동시성 문제 해결을 위해 어떤 Lock을 사용해야 할 까? - &lpar;1&rpar; DB Lock에는 무엇이 있을까?](https://juno-juno.tistory.com/110)
 - [AOP를 활용해 중복코드를 제거해보자! &lpar;feat. AOP란? &rpar;](https://juno-juno.tistory.com/109)
 - [디자인 패턴 적용기 - 팩토리 메서드 패턴, 전략 패턴  ✨ &lpar;feat. 템플릿 메서드, 템플릿 콜백&rpar;](https://juno-juno.tistory.com/108)
 - [SQL 성능 튜닝 - &lpar;2&rpar; 실행계획을 분석해 성능 튜닝을 해보자!](https://juno-juno.tistory.com/107)
 - [SQL 성능 튜닝 - &lpar;1&rpar; 왜 SQL 튜닝을 해야하지? 어떻게 하지?](https://juno-juno.tistory.com/106)
-- [Repository 테스트시 auto_increment의 id 컬럼 의존성을 끊을수는 없을까?](https://juno-juno.tistory.com/105)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juno-juno.tistory.com/)
