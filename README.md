@@ -1,12 +1,12 @@
 ## Hi there, I'm Junho Hwang 👋 
 
 
-## I'm learning to be a backend developer!
+## I'm a junior backend developer!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 Trying to learn constantly. Interested in databases these days.
+- 🌱 Trying to learn constantly.
 <!-- - 👯 I’m looking to make my  -->
-- 🥅 2024 Goals: Get a Job as a backend developer
+- 🥅 2024 Goals: ✅ Get a Job as a backend developer - accomplished   
 
 - ⚡ Fun fact: I love to play guitar ~~and lifting weights~~ (Been slacking on workouts lately. I also enjoy running.)
 ### Connect with me:
@@ -48,4 +48,3 @@
 [Email]: mailto:ssmm0205@naver.com
 [website]: https://juno-juno.tistory.com/
 [notion]: https://kaput-trombone-343.notion.site/Junho-s-Brain-58a680a1bf90439096fed28abf610396
-<!-- [instagram]: https://www.instagram.com/j.unojuno/ <!-- no more available-->
