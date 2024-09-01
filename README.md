@@ -6,19 +6,16 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 Trying to learn constantly.
 <!-- - 👯 I’m looking to make my  -->
-- I'm a people person, a team player, and someone who's passionate about improvement and making the world a better place!
+- 🤝 I'm a people person, a team player, and someone who's passionate about improvement and making the world a better place...
   
-### Connect with me:
+### 🌐 Connect with me:
 
 [<img align="left" alt="junojuno" width="22px" src="./image/tistory.png" />][website]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 [<img align="left" alt="junojuno | email" width="27px" src="./image/email.png" />][Email]
-[<img align="left" alt="junojuno" width="22px" src="./image/notion_icon.png" />][notion] (My Learning Repository)
+[<img align="left" alt="junojuno" width="22px" src="./image/notion_icon.png" />][notion]
 <br />
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 <img align="left" alt="IntelliJ" width="26px" src="./image/intellij.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
