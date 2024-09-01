@@ -6,9 +6,8 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 Trying to learn constantly.
 <!-- - 👯 I’m looking to make my  -->
-- 🥅 2024 Goals: ✅ Get a Job as a backend developer - accomplished   
-
-- ⚡ Fun fact: I love to play guitar ~~and lifting weights~~ (Been slacking on workouts lately. I also enjoy running.)
+- I'm a people person, a team player, and someone who's passionate about improvement and making the world a better place!
+  
 ### Connect with me:
 
 [<img align="left" alt="junojuno" width="22px" src="./image/tistory.png" />][website]
