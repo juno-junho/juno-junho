@@ -15,6 +15,7 @@
 [<img align="left" alt="junojuno" width="22px" src="./image/notion_icon.png" />][notion]
 <br />
 
+<!--
 ### 🛠️ Languages and Tools:
 <img align="left" alt="IntelliJ" width="26px" src="./image/intellij.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -28,6 +29,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
 <br/>
+-->
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
